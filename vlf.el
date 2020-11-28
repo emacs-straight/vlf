@@ -1,7 +1,8 @@
 ;;; vlf.el --- View Large Files  -*- lexical-binding: t -*-
 
-;; Copyright (C) 2006, 2012-2018 Free Software Foundation, Inc.
+;; Copyright (C) 2006-2020 Free Software Foundation, Inc.
 
+;; Maintainer: Andrey Kotlarski <m00naticus@gmail.com>
 ;; Version: 1.7.2
 ;; Keywords: large files, utilities
 ;; Maintainer: Andrey Kotlarski <m00naticus@gmail.com>
